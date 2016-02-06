@@ -1,0 +1,30 @@
+{
+  "name": "frinkiac-slack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukmadlz/frinkiac-slack.git"
+  },
+  "author": "Mike Elsmore <mike.elsmore@uk.ibm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ukmadlz/frinkiac-slack/issues"
+  },
+  "homepage": "https://github.com/ukmadlz/frinkiac-slack#readme",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "dotenv": "^2.0.0",
+    "hapi": "^13.0.0",
+    "path": "^0.12.7",
+    "request": "^2.69.0"
+  },
+  "engines": {
+    "node": "4.2.5"
+  }
+}

@@ -20,7 +20,7 @@
   "dependencies": {
     "dateformat": "^1.0.12",
     "dotenv": "^2.0.0",
-    "hapi": "^13.0.0",
+    "hapi": "^18.1.0",
     "path": "^0.12.7",
     "request": "^2.69.0"
   },
